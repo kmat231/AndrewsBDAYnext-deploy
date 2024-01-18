@@ -5,11 +5,11 @@ export default function Home() {
     return <div>
   <div id="profile-upper">
     <div id="profile-banner-image">
-      <img src={"/Photos/Niki_Concert.jpg"} alt="Banner image"/>
+      <img src={"/Photos/Niki_Concert.JPG"} alt="Banner image"/>
     </div>
     <div id="profile-d">
       <div id="profile-pic">
-        <img src={"/Photos/snowman.jpg"}/>
+        <img src={"/Photos/snowman.JPG"}/>
       </div>
       <div id="u-name">Andrew Liang</div>
       <div className="tb" id="m-btns">
@@ -194,7 +194,7 @@ export default function Home() {
               <div className="td p-opt"><i className="material-icons"></i></div>
             </div>
             <a href="#" className="p-cnt-v">
-              <img src={"//Photos/pastlives.jpg"}/>
+              <img src={"//Photos/pastlives.JPG"}/>
             </a>
             <div>
               <div className="p-acts">

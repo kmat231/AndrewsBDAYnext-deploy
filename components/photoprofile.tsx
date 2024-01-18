@@ -7,7 +7,7 @@ export const data = [
     id: 1,
     description: 'Excited Andrew!',
     type: "Picture",
-    src:'/Photos/snowman.jpg'
+    src:'/Photos/snowman.JPG'
   },
   {
     id: 2,
@@ -38,25 +38,25 @@ export const data = [
     id:5,
     description: 'If a HOF for photos was a thing',
     type: "Picture",
-    src: '/Photos/manzo.jpg'
+    src: '/Photos/manzo.JPG'
   }, 
   {
     id:6,
     description: "I bet $100 you were salsa dancing",
     type: "Picture",
-    src: '/Photos/clubber.jpg'
+    src: '/Photos/clubber.JPG'
   },
   {
     id:7,
     description: 'Ferry vibes with the squad',
     type: "Picture",
-    src: '/Photos/ferry.jpg'
+    src: '/Photos/ferry.JPG'
   },
   {
     id:8,
     description: 'PeeWees',
     type: "Picture",
-    src: '/Photos/PeeWee.jpg'
+    src: '/Photos/PeeWee.JPG'
   },
   {
     id:9,
@@ -74,7 +74,7 @@ export const data = [
     id:11,
     description: "Thumbs up if you stole money from Kevin",
     type: "Picture",
-    src: '/Photos/Poker.jpg'
+    src: '/Photos/Poker.JPG'
   },
   {
     id:12,
@@ -92,13 +92,13 @@ export const data = [
     id:14,
     description: "Taking our talents to South Beach",
     type: "Picture",
-    src: '/Photos/beach.jpg'
+    src: '/Photos/beach.JPG'
   },
   {
     id:15,
     description: "When someone says their fantasy team is better",
     type: "Picture",
-    src: '/Photos/mark.jpg'
+    src: '/Photos/mark.JPG'
   },
   {
     id:16,
