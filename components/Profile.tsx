@@ -85,22 +85,91 @@ export default function Home() {
           </div>
         </div>
         <div>
-        <div className="post" id="post1">
+        <div className="post" id="Succession ">
             <div className="tb">
-              <a href="#" className="td p-p-pic"><img src="/Icons/man.png" alt="Rajeev's profile pic"/></a>
+              <a href="#" className="td p-p-pic"><img src="Icons/man1.png" alt="Rajeev's profile pic"/></a>
               <div className="td p-r-hdr">
                 <div className="p-u-info">
-                  <a href="#">Kevin Mathew</a>
+                  <a href="#">Logan Roy</a>
                 </div>
                 <div className="p-dt">
                   <i className="material-icons"></i>
-                  <span>January 13, 2024</span>
+                  <span>January 14, 2024</span>
                 </div>
               </div>
               <div className="td p-opt"><i className="material-icons"></i></div>
             </div>
             <div className="bday-message-div">
-              <p id="bday-message" > Happy Birthday Andrew!</p>
+              <p id="bday-message" >You're my boy. You're my number one boy.</p>
+              <div className="p-acts">
+                <div className="p-act like"><i className="material-icons"></i></div>
+                <div className="p-act comment"><i className="material-icons"></i></div>
+                <div className="p-act share"><i className="material-icons"></i></div>
+              </div>
+            </div>
+          </div>
+        <div className="post" id="Richie Jerimovich ">
+            <div className="tb">
+              <a href="#" className="td p-p-pic"><img src="Icons/profile.png" alt="Rajeev's profile pic"/></a>
+              <div className="td p-r-hdr">
+                <div className="p-u-info">
+                  <a href="#">Richie Jerimovich</a>
+                </div>
+                <div className="p-dt">
+                  <i className="material-icons"></i>
+                  <span>January 14, 2014</span>
+                </div>
+              </div>
+              <div className="td p-opt"><i className="material-icons"></i></div>
+            </div>
+            <div className="bday-message-div">
+              <p id="bday-message" >NO GAVONES AT FRIENDS AND FAMILY! Okay cousin!? P.S. Get me and my daughter some TSWIFT tix asap!!</p>
+              <div className="p-acts">
+                <div className="p-act like"><i className="material-icons"></i></div>
+                <div className="p-act comment"><i className="material-icons"></i></div>
+                <div className="p-act share"><i className="material-icons"></i></div>
+              </div>
+            </div>
+          </div>
+        <div className="post" id="Taylor Swift">
+            <div className="tb">
+              <a href="#" className="td p-p-pic"><img src="Icons/woman2.png" alt="Rajeev's profile pic"/></a>
+              <div className="td p-r-hdr">
+                <div className="p-u-info">
+                  <a href="#">Taylor Swift</a>
+                </div>
+                <div className="p-dt">
+                  <i className="material-icons"></i>
+                  <span>January 13, 1989</span>
+                </div>
+              </div>
+              <div className="td p-opt"><i className="material-icons"></i></div>
+            </div>
+            <div className="bday-message-div">
+              <p id="bday-message" >I love you Andrew! You're an inspiration.</p>
+              <div className="p-acts">
+                <div className="p-act like"><i className="material-icons"></i></div>
+                <div className="p-act comment"><i className="material-icons"></i></div>
+                <div className="p-act share"><i className="material-icons"></i></div>
+              </div>
+            </div>
+          </div>
+        <div className="post" id="Erica">
+            <div className="tb">
+              <a href="#" className="td p-p-pic"><img src="Icons/woman1.png" alt="Rajeev's profile pic"/></a>
+              <div className="td p-r-hdr">
+                <div className="p-u-info">
+                  <a href="#">Erica Albright</a>
+                </div>
+                <div className="p-dt">
+                  <i className="material-icons"></i>
+                  <span>January 13, 2010</span>
+                </div>
+              </div>
+              <div className="td p-opt"><i className="material-icons"></i></div>
+            </div>
+            <div className="bday-message-div">
+              <p id="bday-message" >I think we should just be friends. I was just being polite, I have no intention of being friends with you.</p>
               <div className="p-acts">
                 <div className="p-act like"><i className="material-icons"></i></div>
                 <div className="p-act comment"><i className="material-icons"></i></div>
@@ -110,14 +179,14 @@ export default function Home() {
           </div>
           <div className="post">
             <div className="tb">
-              <a href="#" className="td p-p-pic"><img src="Icons/girl.png" alt="Rajeev's profile pic"/></a>
+              <a href="#" className="td p-p-pic"><img src="Icons/woman.png" alt="Rajeev's profile pic"/></a>
               <div className="td p-r-hdr">
                 <div className="p-u-info">
                   <a href="#">Feng Jiaxi</a> shared a memory with <a href="#">Andrew Liang</a>
                 </div>
                 <div className="p-dt">
                   <i className="material-icons"></i>
-                  <span>January 13, 2007</span>
+                  <span>January 13, 2006</span>
                 </div>
               </div>
               <div className="td p-opt"><i className="material-icons"></i></div>
@@ -133,6 +202,53 @@ export default function Home() {
               </div>
             </div>
           </div>
+        <div className="post" id="post1">
+            <div className="tb">
+              <a href="#" className="td p-p-pic"><img src="/Icons/girl.png" alt="Rajeev's profile pic"/></a>
+              <div className="td p-r-hdr">
+                <div className="p-u-info">
+                  <a href="#">Stephanie He</a>
+                </div>
+                <div className="p-dt">
+                  <i className="material-icons"></i>
+                  <span>January 13, 2024</span>
+                </div>
+              </div>
+              <div className="td p-opt"><i className="material-icons"></i></div>
+            </div>
+            <div className="bday-message-div">
+              <p id="bday-message" > Happy Birthday Andrew! Cheers to more memories together!</p>
+              <div className="p-acts">
+                <div className="p-act like"><i className="material-icons"></i></div>
+                <div className="p-act comment"><i className="material-icons"></i></div>
+                <div className="p-act share"><i className="material-icons"></i></div>
+              </div>
+            </div>
+          </div>
+          <div className="post" id="post1">
+            <div className="tb">
+              <a href="#" className="td p-p-pic"><img src="/Icons/man.png" alt="Rajeev's profile pic"/></a>
+              <div className="td p-r-hdr">
+                <div className="p-u-info">
+                  <a href="#">Kevin Mathew</a>
+                </div>
+                <div className="p-dt">
+                  <i className="material-icons"></i>
+                  <span>January 13, 2024</span>
+                </div>
+              </div>
+              <div className="td p-opt"><i className="material-icons"></i></div>
+            </div>
+            <div className="bday-message-div">
+              <p id="bday-message" > Happy Birthday Andrew! I appreciate having you as a friend so much and am glad to keep making memories with every moment we spend together. Hope you enjoy this present and wishing you more blessings and happiness for your Kobe Year. Love KMAT</p>
+              <div className="p-acts">
+                <div className="p-act like"><i className="material-icons"></i></div>
+                <div className="p-act comment"><i className="material-icons"></i></div>
+                <div className="p-act share"><i className="material-icons"></i></div>
+              </div>
+            </div>
+          </div>
+          
         </div>
         <div id="loading"><i className="material-icons"></i></div>
       </div>

@@ -24,9 +24,99 @@ export const data = [
   },
   {
     id:3,
-    description: '',
+    description: 'The first of 123412413 times going to Lets meat',
     type: "Video",
     src: '/Videos/kbbq.mp4'
+  },
+  {
+    id:4,
+    description: 'Moments before the riverwater disaster',
+    type: "Picture",
+    src: '/Photos/riverwater.jpg'
+  },
+  {
+    id:5,
+    description: 'If a HOF for photos was a thing',
+    type: "Picture",
+    src: '/Photos/manzo.jpg'
+  }, 
+  {
+    id:6,
+    description: "I bet $100 you were salsa dancing",
+    type: "Picture",
+    src: '/Photos/clubber.jpg'
+  },
+  {
+    id:7,
+    description: 'Ferry vibes with the squad',
+    type: "Picture",
+    src: '/Photos/ferry.jpg'
+  },
+  {
+    id:8,
+    description: 'PeeWees',
+    type: "Picture",
+    src: '/Photos/PeeWee.jpg'
+  },
+  {
+    id:9,
+    description: "Martin had a dream Martin had a dream Andrew have a dream",
+    type: "Picture",
+    src: '/Photos/mlk.jpeg'
+  },
+  {
+    id:10,
+    description: "No question those tacos hit different that night",
+    type: "Picture",
+    src: '/Photos/tacos.jpeg'
+  },
+  {
+    id:11,
+    description: "Thumbs up if you stole money from Kevin",
+    type: "Picture",
+    src: '/Photos/Poker.jpg'
+  },
+  {
+    id:12,
+    description: "Why the hell did we go to SixFlags with that group LOL",
+    type: "Video",
+    src: '/Videos/karoke.mp4'
+  },
+  {
+    id:13,
+    description: "It's a GUCCI BAG!",
+    type: "Video",
+    src: '/Videos/gucci.mp4'
+  },
+  {
+    id:14,
+    description: "Taking our talents to South Beach",
+    type: "Picture",
+    src: '/Photos/beach.jpg'
+  },
+  {
+    id:15,
+    description: "When someone says their fantasy team is better",
+    type: "Picture",
+    src: '/Photos/mark.jpg'
+  },
+  {
+    id:16,
+    description: "Denzel Curry was the OG Hype Concert",
+    type: "Video",
+    src: '/Videos/IMG_2999.mov'
+  },
+  {
+    id:17,
+    description: "Entering the frozen tundra",
+    type: "Picture",
+    src: '/Photos/carpic.jpeg'
+  },
+  {
+    id:18,
+    description: "Bless Joannie and Vincent for a good time",
+    type: "Picture",
+    src: '/Photos/circle.jpeg'
   },
 
 ];
