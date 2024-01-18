@@ -78,7 +78,7 @@ export default function Home() {
           </div>
           <div id="c-c-main">
             <div className="tb">
-              <div className="td" id="p-c-i"><img src={"/Photos/snowman.jpg"} alt="Profile pic"/></div>
+              <div className="td" id="p-c-i"><img src={"/Photos/snowman.JPG"} alt="Profile pic"/></div>
               <div className="td" id="c-inp">
                 <input type="text" placeholder="What's on your mind?"/>
               </div>
@@ -194,7 +194,7 @@ export default function Home() {
               <div className="td p-opt"><i className="material-icons"></i></div>
             </div>
             <a href="#" className="p-cnt-v">
-              <img src={"//Photos/pastlives.JPG"}/>
+              <img src={"/Photos/pastlives.JPG"}/>
             </a>
             <div>
               <div className="p-acts">
