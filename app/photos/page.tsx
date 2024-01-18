@@ -193,7 +193,7 @@ export default function Home() {
           data.map((media, i) => {
             if (media.type == "Picture") {
               return (
-                <div className='post'> 
+                <div className='post' key={i}> 
                   <p id='imageDesciption' key={i}> {media.description} </p>
                   <img key={i} src={media.src}></img>
                 </div> 
@@ -201,7 +201,7 @@ export default function Home() {
               }
             else{
               return (
-              <div className='post'> 
+              <div className='post' key={i}> 
                 <p id='imageDesciption' key={i}> {media.description} </p>
                 <video key={i} src={media.src} loop controls></video>
               </div>
