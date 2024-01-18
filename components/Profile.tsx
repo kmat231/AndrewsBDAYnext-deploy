@@ -100,7 +100,7 @@ export default function Home() {
               <div className="td p-opt"><i className="material-icons"></i></div>
             </div>
             <div className="bday-message-div">
-              <p id="bday-message" >You're my boy. You're my number one boy.</p>
+              <p id="bday-message" >You&apos;re my boy. You&apos;re my number one boy.</p>
               <div className="p-acts">
                 <div className="p-act like"><i className="material-icons"></i></div>
                 <div className="p-act comment"><i className="material-icons"></i></div>
@@ -146,7 +146,7 @@ export default function Home() {
               <div className="td p-opt"><i className="material-icons"></i></div>
             </div>
             <div className="bday-message-div">
-              <p id="bday-message" >I love you Andrew! You're an inspiration.</p>
+              <p id="bday-message" >I love you Andrew! You&apos;re an inspiration.</p>
               <div className="p-acts">
                 <div className="p-act like"><i className="material-icons"></i></div>
                 <div className="p-act comment"><i className="material-icons"></i></div>
