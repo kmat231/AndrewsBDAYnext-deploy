@@ -1,13 +1,15 @@
 import "./Profile.css"
+import Image from 'next/image'
+
 export default function Home() {
     return <div>
   <div id="profile-upper">
     <div id="profile-banner-image">
-      <img src="/Photos/Niki_Concert.jpg" alt="Banner image"/>
+      <img src={"/Photos/Niki_Concert.jpg"} alt="Banner image"/>
     </div>
     <div id="profile-d">
       <div id="profile-pic">
-        <img src="/Photos/snowman.jpg"/>
+        <img src={"/Photos/snowman.jpg"}/>
       </div>
       <div id="u-name">Andrew Liang</div>
       <div className="tb" id="m-btns">
@@ -76,7 +78,7 @@ export default function Home() {
           </div>
           <div id="c-c-main">
             <div className="tb">
-              <div className="td" id="p-c-i"><img src="/Photos/snowman.jpg" alt="Profile pic"/></div>
+              <div className="td" id="p-c-i"><img src={"/Photos/snowman.jpg"} alt="Profile pic"/></div>
               <div className="td" id="c-inp">
                 <input type="text" placeholder="What's on your mind?"/>
               </div>
@@ -87,7 +89,7 @@ export default function Home() {
         <div>
         <div className="post" id="Succession ">
             <div className="tb">
-              <a href="#" className="td p-p-pic"><img src="Icons/man1.png" alt="Rajeev's profile pic"/></a>
+              <a href="#" className="td p-p-pic"><img src={"/Icons/man1.png"} alt="Rajeev's profile pic"/></a>
               <div className="td p-r-hdr">
                 <div className="p-u-info">
                   <a href="#">Logan Roy</a>
@@ -110,7 +112,7 @@ export default function Home() {
           </div>
         <div className="post" id="Richie Jerimovich ">
             <div className="tb">
-              <a href="#" className="td p-p-pic"><img src="Icons/profile.png" alt="Rajeev's profile pic"/></a>
+              <a href="#" className="td p-p-pic"><img src={"/Icons/profile.png"} alt="Rajeev's profile pic"/></a>
               <div className="td p-r-hdr">
                 <div className="p-u-info">
                   <a href="#">Richie Jerimovich</a>
@@ -133,7 +135,7 @@ export default function Home() {
           </div>
         <div className="post" id="Taylor Swift">
             <div className="tb">
-              <a href="#" className="td p-p-pic"><img src="Icons/woman2.png" alt="Rajeev's profile pic"/></a>
+              <a href="#" className="td p-p-pic"><img src={"/Icons/woman2.png"} alt="Rajeev's profile pic"/></a>
               <div className="td p-r-hdr">
                 <div className="p-u-info">
                   <a href="#">Taylor Swift</a>
@@ -156,7 +158,7 @@ export default function Home() {
           </div>
         <div className="post" id="Erica">
             <div className="tb">
-              <a href="#" className="td p-p-pic"><img src="Icons/woman1.png" alt="Rajeev's profile pic"/></a>
+              <a href="#" className="td p-p-pic"><img src={"/Icons/woman1.png"} alt="Rajeev's profile pic"/></a>
               <div className="td p-r-hdr">
                 <div className="p-u-info">
                   <a href="#">Erica Albright</a>
@@ -179,7 +181,7 @@ export default function Home() {
           </div>
           <div className="post">
             <div className="tb">
-              <a href="#" className="td p-p-pic"><img src="Icons/woman.png" alt="Rajeev's profile pic"/></a>
+              <a href="#" className="td p-p-pic"><img src={"/Icons/woman.png"} alt="Rajeev's profile pic"/></a>
               <div className="td p-r-hdr">
                 <div className="p-u-info">
                   <a href="#">Feng Jiaxi</a> shared a memory with <a href="#">Andrew Liang</a>
@@ -192,7 +194,7 @@ export default function Home() {
               <div className="td p-opt"><i className="material-icons"></i></div>
             </div>
             <a href="#" className="p-cnt-v">
-              <img src="/Photos/pastlives.jpg"/>
+              <img src={"//Photos/pastlives.jpg"}/>
             </a>
             <div>
               <div className="p-acts">
@@ -204,7 +206,7 @@ export default function Home() {
           </div>
         <div className="post" id="post1">
             <div className="tb">
-              <a href="#" className="td p-p-pic"><img src="/Icons/girl.png" alt="Rajeev's profile pic"/></a>
+              <a href="#" className="td p-p-pic"><img src={"/Icons/girl.png"} alt="Rajeev's profile pic"/></a>
               <div className="td p-r-hdr">
                 <div className="p-u-info">
                   <a href="#">Stephanie He</a>
@@ -227,7 +229,7 @@ export default function Home() {
           </div>
           <div className="post" id="post1">
             <div className="tb">
-              <a href="#" className="td p-p-pic"><img src="/Icons/man.png" alt="Rajeev's profile pic"/></a>
+              <a href="#" className="td p-p-pic"><img src={"/Icons/man.png"} alt="Rajeev's profile pic"/></a>
               <div className="td p-r-hdr">
                 <div className="p-u-info">
                   <a href="#">Kevin Mathew</a>
